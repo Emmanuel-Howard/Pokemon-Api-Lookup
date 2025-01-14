@@ -1,8 +1,8 @@
-Pokémon API Lookup (Python)
+# Pokémon API Lookup (Python)
 A Pokémon search program that provides info from the PokéAPI database. 
 
-Description
+## Description
 This search program prompts the User for a Pokémon name. Once entered, it will search the PokéAPI database (https://pokeapi.co/) and print info on the chosen Pokémon. 
 
-Author
+## Author
 Emmanuel Howard - https://github.com/Emmanuel-Howard
